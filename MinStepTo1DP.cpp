@@ -32,7 +32,15 @@ int minSteps(int n) {
 	}
 	return minStepsHelper(n, ans);
 }
-/*
+
+int main() {
+	int n;
+	cin >> n;
+
+	cout << minSteps(n) << endl;
+}
+
+/*    USING RECURSION ONLY
 int minSteps(int n) {
 	// Base case
 	if(n <= 1) {
@@ -56,10 +64,4 @@ int minSteps(int n) {
 
 }
 */
-int main() {
-	int n;
-	cin >> n;
-
-	cout << minSteps(n) << endl;
-}
 
