@@ -9,8 +9,9 @@ The value of N, which is an integer, includes at least one digit that is a 4... 
 
 Fortunately, we have a workaround: we will send our winner two checks for positive integer amounts A and B, such that neither A nor B contains any digit that is a 4, and A + B = N.
  Please help us find any pair of values A and B that satisfy these conditions.
+
+================================================================================================================================
 */
-//================================================================================================================================
 #include<iostream>
 #include<vector>
 using namespace std;
