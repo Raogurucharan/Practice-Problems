@@ -28,6 +28,3 @@ int main()
         cout<<output[i]<<" ";
     }
 }
-
-//Here vector is used insttead of array because in case of int arr if we have elemnt like 10 pow 8 then we need to
-// create that large element which is not require always hence we use vectors
