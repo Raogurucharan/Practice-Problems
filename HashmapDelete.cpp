@@ -115,4 +115,3 @@ class ourmap {
 	}
 
 };
-{"mode":"full","isActive":false}
