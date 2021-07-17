@@ -28,3 +28,6 @@ int main()
         cout<<output[i]<<" ";
     }
 }
+
+// Time: O(N)
+// Space: O(N)
