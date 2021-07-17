@@ -20,8 +20,8 @@ vector <int> removeduplicate(int arr[], int size)
 
 int main()
 {
-    int arr[]={1,2,4,6,7,4,3,3,1,1,8,15,15};
-    int size=13;
+    int arr[]={0,0,-2,4,6,7,4,3,3,1,1,8,15,102,112,112,221,11,25};
+    int size=19;
     vector <int> output= removeduplicate(arr,size);
     for(int i=0;i<output.size();i++)
     {
