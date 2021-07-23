@@ -20,7 +20,6 @@ int maxProfit(int price[], int start, int end)
 	return profit;
 }
 
-
 int main()
 {
 	int price[] = { 100, 180, 260, 310, 40, 535, 695 };
