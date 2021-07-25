@@ -1,4 +1,5 @@
 /*
+Codechef Starter Jul-2021
 Explanation
 TestCase 1: The energy at first level is 5 units. For the second level energy becomes ⌊53⌋=1 units. 
 So the length of foodchain is 2 since from the next level onwards 0 units of energy will be received.
