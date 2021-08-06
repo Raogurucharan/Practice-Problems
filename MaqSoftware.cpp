@@ -1,6 +1,6 @@
 #include <iostream>
 #include<bits/stdc++.h>
-using namespace std;//Do not remove this;
+using namespace std;
 int main()
 {
    string a;
@@ -33,5 +33,4 @@ int main()
   sort(str.begin(), str.end());
   sort(capstr.begin(), capstr.end());
   cout<< str+capstr+numstr+after;
-
 }
