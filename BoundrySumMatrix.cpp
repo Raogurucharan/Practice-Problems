@@ -1,4 +1,4 @@
-/* C++ Program to print the sum of boundary elements of a matrix */
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
