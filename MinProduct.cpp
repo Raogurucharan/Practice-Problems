@@ -13,7 +13,6 @@ int minProduct(int A[], int n) {
     }
     return r;
 }
-// Time complexity O(N)
 
 int main()
 {
