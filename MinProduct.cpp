@@ -1,3 +1,4 @@
+//Given a array find the minimum possible subarray product formed 
 #include<iostream>
 using namespace std;
 int minProduct(int A[], int n) {
