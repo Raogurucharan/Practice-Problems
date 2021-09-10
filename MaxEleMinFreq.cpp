@@ -4,8 +4,6 @@ Auxiliary Space: O(N)
 */
 #include <bits/stdc++.h>
 using namespace std;
-// Function to find the maximum element
-// with the minimum frequency
 int maxElementWithMinFreq(int* arr, int N)
 {
 	unordered_map<int, int> mp;
