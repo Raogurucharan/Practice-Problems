@@ -1,3 +1,7 @@
+/*
+Time Complexity: O(N)
+Auxiliary Space: O(N)
+*/
 #include <bits/stdc++.h>
 using namespace std;
 // Function to find the maximum element
@@ -37,8 +41,6 @@ int main()
 }
 
 /*
-Time Complexity: O(N)
-Auxiliary Space: O(N)
 Input: arr[] = {2, 2, 5, 50, 1}
 Output: 50
 Explanation:
