@@ -1,4 +1,4 @@
-// Similar to that of Dutch National Flag problem
+// Similar Logic of Dutch National Flag problem
 #include<iostream>
 using namespace std;
 
