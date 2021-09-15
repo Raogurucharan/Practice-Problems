@@ -20,6 +20,7 @@ void countFreq(string str, int n)
     }
     cout<<"The max frequency is "<<element<<" and Element is "<<char(finalchar)<<endl;
 }
+
 int main()
 {
 	string str;
