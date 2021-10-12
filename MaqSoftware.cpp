@@ -2,7 +2,8 @@
  SORT THE STRING IN THESE CONDITIONS:
 1)  Smaller letter shold come first in sorted order (a-z)
 2)  Larger letters should come next in sorted order (A-Z)
-3)  Numbers should come next but odd numbers should be placed first then the even numbers 
+3)  Numbers should come next but odd numbers should be placed first then the even numbers (Not necessarily in sorted order)
+4)  If any special characters are present remove them
 Eg:
    i/p: ekTRYFFoi876
    o/p: eikoFFRTY786
