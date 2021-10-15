@@ -1,25 +1,4 @@
-/*
-#include<iostream>
-#include<bits/stdc++.h>
-using namespace std;
-int main()
-{
-    int n=1221;
-    int arr[1000];
-    int i=0;
-    while (n != 0 ){
-    arr[i] = n % 10 ;
-    n /= 10 ;
-    i++;
-    }
-    int num= sizeof(arr)/sizeof(arr[0]);
-    for(int i=0;i<num;i++)
-    {
-        cout<<arr[i]<<" , ";
-    }
 
-}
-*/
 
 #include <bits/stdc++.h>
 using namespace std;
