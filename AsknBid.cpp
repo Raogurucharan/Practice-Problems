@@ -7,7 +7,6 @@ eg:
 
     I/P: {6,6,9}
     O/P: {6,7,0}
-
 */
 #include <bits/stdc++.h>
 using namespace std;
